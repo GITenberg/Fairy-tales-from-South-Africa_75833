@@ -10,6 +10,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '9710'
     url: http://www.gutenberg.org/2009/agents/9710
+covers:
+- cover_type: archival
+  image_path: 75833-h/images/new-cover.jpg
 creator:
   authors:
   - agent_name: Bourhill, Sarah F.
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '58173'
     url: http://www.gutenberg.org/2009/agents/58173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75833#Fairy-tales-from-South-Africa
 gutenberg_issued: '2025-04-11'
 gutenberg_type: Text
 identifiers:
